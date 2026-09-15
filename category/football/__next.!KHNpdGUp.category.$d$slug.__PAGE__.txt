@@ -2,5 +2,5 @@
 2:I[33776,["/_next/static/chunks/3e0kqsal4fd1s.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2_hs144z-tkz_.js","/_next/static/chunks/117bkwhbexnk2.js","/_next/static/chunks/02ljpea-k900b.js","/_next/static/chunks/2u-iijxutiwmg.js","/_next/static/chunks/18qxp2sif115q.js"],"default"]
 3:I[97367,["/_next/static/chunks/3e0kqsal4fd1s.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/2_hs144z-tkz_.js","/_next/static/chunks/117bkwhbexnk2.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"football"}],[["$","script","script-0",{"src":"/_next/static/chunks/18qxp2sif115q.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"T0VKGuAQPAetkLNHjZbtc"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"football"}],[["$","script","script-0",{"src":"/_next/static/chunks/18qxp2sif115q.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dmILqrCcRB8koZip9pwbu"}
 5:null
