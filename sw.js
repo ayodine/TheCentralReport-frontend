@@ -1,5 +1,21 @@
 // The Central Report — Service Worker (PWA)
 const CACHE_NAME = 'tcr-pwa-v1';
+
+// Bypass and immediately unregister on localhost / local development
+if (
+  typeof location !== 'undefined' &&
+  (location.hostname === 'localhost' || location.hostname === '127.0.0.1' || location.hostname === '[::1]')
+) {
+  self.addEventListener('install', () => self.skipWaiting());
+  self.addEventListener('activate', (event) => {
+    event.waitUntil(
+      caches.keys().then((names) => Promise.all(names.map((n) => caches.delete(n)))).then(() => {
+        return self.registration.unregister();
+      })
+    );
+  });
+}
+
 const STATIC_ASSETS = [
   '/',
   '/manifest.webmanifest',
