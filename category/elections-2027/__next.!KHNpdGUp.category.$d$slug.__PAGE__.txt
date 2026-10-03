@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[33776,["/_next/static/chunks/3k_eiuc1br0pe.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0nj_ptfc_4vgl.js","/_next/static/chunks/1kyzeptm8vya4.js","/_next/static/chunks/1tawj56d1k77x.js","/_next/static/chunks/2u6hp0iwnrkhe.js","/_next/static/chunks/15fpaubcdamv9.js"],"default"]
-3:I[97367,["/_next/static/chunks/3k_eiuc1br0pe.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0nj_ptfc_4vgl.js","/_next/static/chunks/1kyzeptm8vya4.js"],"OutletBoundary"]
+2:I[33776,["/_next/static/chunks/3k_eiuc1br0pe.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0nj_ptfc_4vgl.js","/_next/static/chunks/2fvi30ifqhhjx.js","/_next/static/chunks/1tawj56d1k77x.js","/_next/static/chunks/2u6hp0iwnrkhe.js","/_next/static/chunks/3f955pjr5mof0.js"],"default"]
+3:I[97367,["/_next/static/chunks/3k_eiuc1br0pe.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0nj_ptfc_4vgl.js","/_next/static/chunks/2fvi30ifqhhjx.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"elections-2027"}],[["$","script","script-0",{"src":"/_next/static/chunks/15fpaubcdamv9.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ccBpbAFDOz_TuT7hV9hDx"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"elections-2027"}],[["$","script","script-0",{"src":"/_next/static/chunks/3f955pjr5mof0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2GOMszjBgq8d_sfrXo0YL"}
 5:null
