@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[33776,["/_next/static/chunks/1o7gp-ddyxfog.js","/_next/static/chunks/1-8jvracajqvh.js","/_next/static/chunks/3d2kuqzp1c9--.js","/_next/static/chunks/1pmd6t7sadxiv.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3atue0h-tmcqu.js","/_next/static/chunks/27_x-3_nq8akn.js","/_next/static/chunks/1thiz21bd7sc0.js"],"default"]
-3:I[97367,["/_next/static/chunks/1o7gp-ddyxfog.js","/_next/static/chunks/1-8jvracajqvh.js","/_next/static/chunks/3d2kuqzp1c9--.js","/_next/static/chunks/1pmd6t7sadxiv.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+2:I[33776,["/_next/static/chunks/1o7gp-ddyxfog.js","/_next/static/chunks/1-8jvracajqvh.js","/_next/static/chunks/3d2kuqzp1c9--.js","/_next/static/chunks/3yylrtw-ozig2.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3atue0h-tmcqu.js","/_next/static/chunks/27_x-3_nq8akn.js","/_next/static/chunks/2rmi-7qmrybvi.js"],"default"]
+3:I[97367,["/_next/static/chunks/1o7gp-ddyxfog.js","/_next/static/chunks/1-8jvracajqvh.js","/_next/static/chunks/3d2kuqzp1c9--.js","/_next/static/chunks/3yylrtw-ozig2.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"health-wellness"}],[["$","script","script-0",{"src":"/_next/static/chunks/1thiz21bd7sc0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ROCmSjdDLx2jo4ATSjZ70"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"health-wellness"}],[["$","script","script-0",{"src":"/_next/static/chunks/2rmi-7qmrybvi.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"U3s8n6kAZAorMZethUvtB"}
 5:null
