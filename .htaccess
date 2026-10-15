@@ -21,7 +21,7 @@
   # Ensures clean URLs matching next.config.ts trailingSlash: true
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_URI} !(.*)/$
-  RewriteRule ^(.*)$ $1/ [L,R=301]
+  RewriteRule ^(.*)$ %{REQUEST_URI}/ [L,R=301]
 
   # ── 2. Dynamic Article SPA Fallback ──────────────────────────────────────────
   # When a visitor requests an article published after the latest build,
